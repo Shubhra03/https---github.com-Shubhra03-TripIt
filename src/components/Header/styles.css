@@ -1,0 +1,43 @@
+/* Styles for the Header component */
+.AppBar {
+    background-color: #2196f3; /* Set the background color for the AppBar */
+  }
+  
+  .Toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff; /* Set the color for the logo text */
+  }
+  
+  .ExploreText {
+    font-size: 18px;
+    color: #ffffff; /* Set the color for the "Explore new places" text */
+  }
+  
+  .SearchContainer {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff; /* Set the background color for the search container */
+    border-radius: 4px;
+    padding: 4px 8px;
+  }
+  
+  .SearchIcon {
+    margin-right: 8px;
+    color: #2196f3; /* Set the color for the search icon */
+  }
+  
+  .SearchInput {
+    width: 200px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #2196f3; /* Set the color for the search input text */
+  }
+  
