@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-![Uploading Screenshot (512).png…]()
+
+![Screenshot (512)](https://github.com/Shubhra03/https---github.com-Shubhra03-TripIt/assets/112194030/db10150b-ee75-4bdd-a8a0-3d61524041f3)
 
 
 
