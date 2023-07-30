@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
+![Uploading Screenshot (512).png…]()
 
-![Screenshot (512)](https://github.com/Shubhra03/https---github.com-Shubhra03-TripIt/assets/112194030/4b349421-1a89-432d-b96d-b63e6b2efd04)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
